@@ -13,23 +13,33 @@ function Header() {
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/test">
-            Test
+          <a class="nav-link" href="/meetings">
+            Meetings
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">
-            Presentations
+          <a class="nav-link" href="/announcements">
+            Announcements
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">
-            Activities
+          <a class="nav-link" href="/social">
+            Social Media
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="/execboard">
             Executive Board
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/faq">
+            FAQ
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/login">
+            Login
           </a>
         </li>
       </ul>
@@ -38,36 +48,3 @@ function Header() {
 }
 
 export default Header;
-
-{
-  /*
-
-<ul class="nav nav-expand-lg nav-justified">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">
-            Home
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/test">
-            Test
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            Presentations
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            Activities
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
-            Executive Board
-          </a>
-        </li>
-      </ul>
-*/
-}
