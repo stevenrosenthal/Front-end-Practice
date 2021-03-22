@@ -6,7 +6,7 @@ import Home from "./Home";
 import Meetings from "./Meetings";
 import Announcements from "./Announcements";
 import ExecBoard from "./ExecBoard";
-import Socials from "./Socials";
+import Socials from "./Social";
 import FAQ from "./FAQ";
 import Login from "./Login";
 
